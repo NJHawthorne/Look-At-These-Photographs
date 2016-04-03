@@ -1,13 +1,13 @@
+body .inactive {
+  display: none; }
 body .myAlbums {
   background-color: #444;
   text-align: center;
   padding: 0.5em 0;
-  font-size: 3em;
-  display: none; }
+  font-size: 3em; }
 body .albumOverview {
   margin: 3em auto;
-  width: 78.6%;
-  display: none; }
+  width: 78.6%; }
   body .albumOverview .albumThumbnails {
     display: inline-block;
     margin: 0 5em 3em 5em;
