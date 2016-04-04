@@ -57,5 +57,15 @@ body .imagesOverview {
       text-align: center;
       position: relative;
       bottom: 0.75em; }
+  body .imagesOverview .enhancedImage {
+    background-color: #444;
+    width: 100%;
+    padding: 5em 0 10em 0; }
+    body .imagesOverview .enhancedImage div {
+      width: 8em;
+      text-align: center;
+      margin: 0.85em auto;
+      padding: 0.65em;
+      background-color: #fff; }
 
 /*# sourceMappingURL=main.css.map */
